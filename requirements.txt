@@ -1,3 +1,5 @@
 PyQt5
 pytube
 pydub
+yt-dlp
+ffmpeg-python
