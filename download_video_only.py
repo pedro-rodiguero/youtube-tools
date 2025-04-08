@@ -20,5 +20,6 @@ def download_video(url, path):
 
 # Use the function
 download_video(
-    "https://www.youtube.com/watch?v=4ENyuGvh-dc", "/home/pedro/Desktop/Igreja/Pascoa"
+    "https://www.youtube.com/watch?v=kSZddHca0ME",
+    "/home/pedro/Desktop/Igreja/Pascoa",
 )
